@@ -1,3 +1,3 @@
 # education
 Hello Students hw r u 
-This is not one of a fine day.
+This is one of a fine day.
