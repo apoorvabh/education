@@ -2,7 +2,9 @@ Hi
 this is a new file
 which I am adding in stud branch
 N checking whether it reflects to others or not
+Reflecting changes in edu branch
 sukhvinder hi
 what are u saying that is wrong
 Reflecting changes in edu branch
 hiiiiiiiiiiiiiiiiii
+Something went wrong in other branch in the same file.
